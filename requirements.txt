@@ -41,6 +41,5 @@ telegraph
 tenacity
 tgcrypto
 uv
-uvloop
 xattr
 yt-dlp
